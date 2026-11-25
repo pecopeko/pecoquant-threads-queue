@@ -22,3 +22,13 @@ Where tree models (LightGBM/XGBoost) go blind is extrapolation: new supply-chain
 
 Humans win on structural thesis; machines own short-term execution. Agree or disagree?
 === END POST 002 ===
+
+=== POST 003 ===
+The trading debate that never dies: tight stop-losses vs. riding out volatility.
+
+Run tight -1.5% stops on TSLA or PLTR, and intraday liquidity sweeps clip your stop right before the bounce.
+
+Drop stops completely, and one regime shift erases six months of gains.
+
+In quant portfolios, the fix usually isn't tighter price stops. It's sizing positions inversely to 20-day volatility (1/sigma) before entry. Which side are you on?
+=== END POST 003 ===
