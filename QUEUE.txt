@@ -1,0 +1,24 @@
+=== POST 001 ===
+Both TQQQ (3x Nasdaq bull) and SQQQ (3x Nasdaq bear) lost money in 2026 at the exact same time.
+
+Starting Jan 2 with $10,000:
+- QQQ: $10,443 (+4.4%)
+- TQQQ: $8,875 (-11.2%, -52.6% max DD)
+- SQQQ: $7,329 (-26.7%)
+
+Daily 3x resets bleed ~0.5 * L^2 * sigma^2 in choppy tape, so bulls and bears get chopped up together.
+
+Yet holding TQQQ only when QQQ > 50d MA and VIX < 21 turned $10k into $12,758 (-16.6% max DD).
+
+Do you ever hold 3x ETFs overnight, or strictly intraday?
+=== END POST 001 ===
+
+=== POST 002 ===
+Honest question from someone building ML models for stocks: where do human retail traders still beat Wall Street algos in 2026?
+
+Definitely not 5-minute NVDA breakouts after headlines. Algos price and hedge those in milliseconds.
+
+Where tree models (LightGBM/XGBoost) go blind is extrapolation: new supply-chain bottlenecks or regime shifts with zero historical training rows.
+
+Humans win on structural thesis; machines own short-term execution. Agree or disagree?
+=== END POST 002 ===
